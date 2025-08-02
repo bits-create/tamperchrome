@@ -1,0 +1,1555 @@
+{
+  "annotations": {
+    "assets_version": "20200610133507",
+    "engine_name": "miniooni",
+    "engine_version": "0.13.0",
+    "flavor": "stableFdroid",
+    "network_type": "wifi",
+    "platform": "android"
+  },
+  "data_format_version": "0.2.0",
+  "extensions": {
+    "dnst": 0,
+    "httpt": 0,
+    "netevents": 0,
+    "tlshandshake": 0,
+    "tunnel": 0
+  },
+  "measurement_start_time": "2025-08-02 19:48:40",
+  "probe_asn": "AS0",
+  "probe_cc": "AF",
+  "probe_ip": "127.0.0.1",
+  "report_id": "20250802T194842Z_telegram_AF_0_n1_XvaQE05IfOFoaLAH",
+  "resolver_asn": "AS0",
+  "resolver_ip": "121.127.44.28",
+  "resolver_network_name": "",
+  "software_name": "ooniprobe-android",
+  "software_version": "2.4.0",
+  "test_keys": {
+    "agent": "redirect",
+    "network_events": [
+      {
+        "operation": "http_transaction_start",
+        "t": 0.000267552
+      },
+      {
+        "operation": "http_request_metadata",
+        "t": 0.000297969
+      },
+      {
+        "address": "149.154.175.50:80",
+        "operation": "connect",
+        "proto": "tcp",
+        "t": 0.125502604
+      },
+      {
+        "operation": "http_wrote_headers",
+        "t": 0.125902813
+      },
+      {
+        "operation": "http_wrote_request",
+        "t": 0.125908646
+      },
+      {
+        "num_bytes": 301,
+        "operation": "write",
+        "t": 0.126020052
+      },
+      {
+        "num_bytes": 324,
+        "operation": "read",
+        "t": 0.25143875
+      },
+      {
+        "operation": "http_first_response_byte",
+        "t": 0.251468698
+      },
+      {
+        "operation": "http_response_metadata",
+        "t": 0.251816042
+      },
+      {
+        "operation": "http_response_body_snapshot",
+        "t": 0.252100156
+      },
+      {
+        "operation": "http_transaction_done",
+        "t": 0.252104479
+      },
+      {
+        "operation": "http_transaction_start",
+        "t": 0.000120364
+      },
+      {
+        "operation": "http_request_metadata",
+        "t": 0.000136822
+      },
+      {
+        "address": "149.154.175.100:80",
+        "operation": "connect",
+        "proto": "tcp",
+        "t": 0.125349531
+      },
+      {
+        "operation": "http_wrote_headers",
+        "t": 0.125504322
+      },
+      {
+        "operation": "http_wrote_request",
+        "t": 0.125507604
+      },
+      {
+        "num_bytes": 302,
+        "operation": "write",
+        "t": 0.125606979
+      },
+      {
+        "num_bytes": 367,
+        "operation": "read",
+        "t": 0.251398645
+      },
+      {
+        "operation": "http_first_response_byte",
+        "t": 0.251413385
+      },
+      {
+        "operation": "http_response_metadata",
+        "t": 0.251536458
+      },
+      {
+        "operation": "http_response_body_snapshot",
+        "t": 0.251641458
+      },
+      {
+        "operation": "http_transaction_done",
+        "t": 0.251644843
+      },
+      {
+        "operation": "http_transaction_start",
+        "t": 0.00021026
+      },
+      {
+        "operation": "http_request_metadata",
+        "t": 0.000252604
+      },
+      {
+        "address": "149.154.167.51:80",
+        "operation": "connect",
+        "proto": "tcp",
+        "t": 0.187325364
+      },
+      {
+        "operation": "http_wrote_headers",
+        "t": 0.188317083
+      },
+      {
+        "operation": "http_wrote_request",
+        "t": 0.188323437
+      },
+      {
+        "num_bytes": 301,
+        "operation": "write",
+        "t": 0.188503593
+      },
+      {
+        "num_bytes": 367,
+        "operation": "read",
+        "t": 0.375972187
+      },
+      {
+        "operation": "http_first_response_byte",
+        "t": 0.375989583
+      },
+      {
+        "operation": "http_response_metadata",
+        "t": 0.376178541
+      },
+      {
+        "operation": "http_response_body_snapshot",
+        "t": 0.376297239
+      },
+      {
+        "operation": "http_transaction_done",
+        "t": 0.37630026
+      },
+      {
+        "operation": "http_transaction_start",
+        "t": 0.000091094
+      },
+      {
+        "operation": "http_request_metadata",
+        "t": 0.000106198
+      },
+      {
+        "address": "149.154.175.50:443",
+        "operation": "connect",
+        "proto": "tcp",
+        "t": 0.121393854
+      },
+      {
+        "operation": "http_wrote_headers",
+        "t": 0.121624323
+      },
+      {
+        "operation": "http_wrote_request",
+        "t": 0.121626823
+      },
+      {
+        "num_bytes": 305,
+        "operation": "write",
+        "t": 0.121733125
+      },
+      {
+        "num_bytes": 324,
+        "operation": "read",
+        "t": 0.243721198
+      },
+      {
+        "operation": "http_first_response_byte",
+        "t": 0.243750417
+      },
+      {
+        "operation": "http_response_metadata",
+        "t": 0.243998125
+      },
+      {
+        "operation": "http_response_body_snapshot",
+        "t": 0.244226771
+      },
+      {
+        "operation": "http_transaction_done",
+        "t": 0.244231042
+      },
+      {
+        "operation": "http_transaction_start",
+        "t": 0.000193854
+      },
+      {
+        "operation": "http_request_metadata",
+        "t": 0.000232239
+      },
+      {
+        "address": "149.154.167.91:80",
+        "operation": "connect",
+        "proto": "tcp",
+        "t": 0.190867656
+      },
+      {
+        "operation": "http_wrote_headers",
+        "t": 0.191225312
+      },
+      {
+        "operation": "http_wrote_request",
+        "t": 0.191231041
+      },
+      {
+        "num_bytes": 301,
+        "operation": "write",
+        "t": 0.191358906
+      },
+      {
+        "num_bytes": 324,
+        "operation": "read",
+        "t": 0.377557343
+      },
+      {
+        "operation": "http_first_response_byte",
+        "t": 0.377569427
+      },
+      {
+        "operation": "http_response_metadata",
+        "t": 0.377701406
+      },
+      {
+        "operation": "http_response_body_snapshot",
+        "t": 0.378499791
+      },
+      {
+        "operation": "http_transaction_done",
+        "t": 0.378503906
+      },
+      {
+        "operation": "http_transaction_start",
+        "t": 0.000316771
+      },
+      {
+        "operation": "http_request_metadata",
+        "t": 0.000340834
+      },
+      {
+        "address": "149.154.171.5:80",
+        "operation": "connect",
+        "proto": "tcp",
+        "t": 0.281790313
+      },
+      {
+        "operation": "http_wrote_headers",
+        "t": 0.283033542
+      },
+      {
+        "operation": "http_wrote_request",
+        "t": 0.283040677
+      },
+      {
+        "num_bytes": 300,
+        "operation": "write",
+        "t": 0.283218386
+      },
+      {
+        "num_bytes": 324,
+        "operation": "read",
+        "t": 0.565331979
+      },
+      {
+        "operation": "http_first_response_byte",
+        "t": 0.565348959
+      },
+      {
+        "operation": "http_response_metadata",
+        "t": 0.565454844
+      },
+      {
+        "operation": "http_response_body_snapshot",
+        "t": 0.565536094
+      },
+      {
+        "operation": "http_transaction_done",
+        "t": 0.565539219
+      },
+      {
+        "failure": "unknown_failure: read tcp [scrubbed]->[scrubbed]: use of closed network connection",
+        "operation": "read",
+        "t": 0.566597552
+      },
+      {
+        "operation": "http_transaction_start",
+        "t": 0.000087343
+      },
+      {
+        "operation": "http_request_metadata",
+        "t": 0.000134791
+      },
+      {
+        "address": "149.154.175.100:443",
+        "operation": "connect",
+        "proto": "tcp",
+        "t": 0.130357239
+      },
+      {
+        "operation": "http_wrote_headers",
+        "t": 0.130659322
+      },
+      {
+        "operation": "http_wrote_request",
+        "t": 0.130663125
+      },
+      {
+        "num_bytes": 306,
+        "operation": "write",
+        "t": 0.130799375
+      },
+      {
+        "num_bytes": 324,
+        "operation": "read",
+        "t": 0.253825989
+      },
+      {
+        "operation": "http_first_response_byte",
+        "t": 0.253857812
+      },
+      {
+        "operation": "http_response_metadata",
+        "t": 0.254243177
+      },
+      {
+        "operation": "http_response_body_snapshot",
+        "t": 0.2545
+      },
+      {
+        "operation": "http_transaction_done",
+        "t": 0.25450401
+      },
+      {
+        "operation": "http_transaction_start",
+        "t": 0.000365781
+      },
+      {
+        "operation": "http_request_metadata",
+        "t": 0.000435573
+      },
+      {
+        "address": "149.154.167.51:443",
+        "operation": "connect",
+        "proto": "tcp",
+        "t": 0.190389479
+      },
+      {
+        "operation": "http_wrote_headers",
+        "t": 0.190593177
+      },
+      {
+        "operation": "http_wrote_request",
+        "t": 0.190595677
+      },
+      {
+        "num_bytes": 305,
+        "operation": "write",
+        "t": 0.190715312
+      },
+      {
+        "num_bytes": 324,
+        "operation": "read",
+        "t": 0.379887344
+      },
+      {
+        "operation": "http_first_response_byte",
+        "t": 0.379922708
+      },
+      {
+        "operation": "http_response_metadata",
+        "t": 0.380531094
+      },
+      {
+        "operation": "http_response_body_snapshot",
+        "t": 0.380965052
+      },
+      {
+        "operation": "http_transaction_done",
+        "t": 0.380969792
+      },
+      {
+        "operation": "http_transaction_start",
+        "t": 0.000107239
+      },
+      {
+        "operation": "http_request_metadata",
+        "t": 0.00012302
+      },
+      {
+        "address": "149.154.167.91:443",
+        "operation": "connect",
+        "proto": "tcp",
+        "t": 0.185344635
+      },
+      {
+        "operation": "http_wrote_headers",
+        "t": 0.185796197
+      },
+      {
+        "operation": "http_wrote_request",
+        "t": 0.185801093
+      },
+      {
+        "num_bytes": 305,
+        "operation": "write",
+        "t": 0.185960156
+      },
+      {
+        "num_bytes": 324,
+        "operation": "read",
+        "t": 0.371290051
+      },
+      {
+        "operation": "http_first_response_byte",
+        "t": 0.37130776
+      },
+      {
+        "operation": "http_response_metadata",
+        "t": 0.371435781
+      },
+      {
+        "operation": "http_response_body_snapshot",
+        "t": 0.37155276
+      },
+      {
+        "operation": "http_transaction_done",
+        "t": 0.371555885
+      },
+      {
+        "failure": "unknown_failure: read tcp [scrubbed]->[scrubbed]: use of closed network connection",
+        "operation": "read",
+        "t": 0.372640156
+      },
+      {
+        "operation": "http_transaction_start",
+        "t": 0.000198645
+      },
+      {
+        "operation": "http_request_metadata",
+        "t": 0.000233333
+      },
+      {
+        "address": "149.154.171.5:443",
+        "operation": "connect",
+        "proto": "tcp",
+        "t": 0.273451822
+      },
+      {
+        "operation": "http_wrote_headers",
+        "t": 0.273667916
+      },
+      {
+        "operation": "http_wrote_request",
+        "t": 0.273670833
+      },
+      {
+        "num_bytes": 304,
+        "operation": "write",
+        "t": 0.273781302
+      },
+      {
+        "num_bytes": 324,
+        "operation": "read",
+        "t": 0.560414895
+      },
+      {
+        "operation": "http_first_response_byte",
+        "t": 0.560452916
+      },
+      {
+        "operation": "http_response_metadata",
+        "t": 0.561051197
+      },
+      {
+        "operation": "http_response_body_snapshot",
+        "t": 0.561428854
+      },
+      {
+        "operation": "http_transaction_done",
+        "t": 0.561432343
+      },
+      {
+        "operation": "http_transaction_start",
+        "t": 0.000114271
+      },
+      {
+        "operation": "http_request_metadata",
+        "t": 0.000136407
+      },
+      {
+        "operation": "resolve_start",
+        "t": 0.00120474
+      },
+      {
+        "operation": "resolve_done",
+        "t": 0.233565052
+      },
+      {
+        "failure": "unknown_failure: context deadline exceeded",
+        "operation": "http_transaction_done",
+        "t": 28.992815666
+      },
+      {
+        "operation": "http_transaction_start",
+        "t": 0.000106406
+      },
+      {
+        "operation": "http_request_metadata",
+        "t": 0.000125885
+      },
+      {
+        "operation": "resolve_start",
+        "t": 0.000438177
+      },
+      {
+        "operation": "resolve_done",
+        "t": 0.044939687
+      },
+      {
+        "address": "149.154.167.99:443",
+        "failure": "generic_timeout_error",
+        "operation": "connect",
+        "proto": "tcp",
+        "t": 28.804451083
+      },
+      {
+        "address": "[2001:67c:4e8:f004::9]:443",
+        "failure": "generic_timeout_error",
+        "operation": "connect",
+        "proto": "tcp",
+        "t": 28.804560406
+      },
+      {
+        "failure": "unknown_failure: context deadline exceeded",
+        "operation": "http_transaction_done",
+        "t": 28.804619208
+      }
+    ],
+    "queries": [
+      {
+        "answers": [
+          {
+            "asn": 62041,
+            "as_org_name": "Telegram Telegram Messenger Inc",
+            "answer_type": "A",
+            "ipv4": "149.154.167.99"
+          }
+        ],
+        "engine": "system",
+        "hostname": "web.telegram.org",
+        "query_type": "A",
+        "resolver_address": "",
+        "t": 0.233565052
+      },
+      {
+        "answers": [
+          {
+            "asn": 62041,
+            "as_org_name": "Telegram Telegram Messenger Inc",
+            "answer_type": "AAAA",
+            "ipv6": "2001:67c:4e8:f004::9"
+          }
+        ],
+        "engine": "system",
+        "hostname": "web.telegram.org",
+        "query_type": "AAAA",
+        "resolver_address": "",
+        "t": 0.233565052
+      },
+      {
+        "answers": [
+          {
+            "asn": 62041,
+            "as_org_name": "Telegram Telegram Messenger Inc",
+            "answer_type": "A",
+            "ipv4": "149.154.167.99"
+          }
+        ],
+        "engine": "system",
+        "hostname": "web.telegram.org",
+        "query_type": "A",
+        "resolver_address": "",
+        "t": 0.044939687
+      },
+      {
+        "answers": [
+          {
+            "asn": 62041,
+            "as_org_name": "Telegram Telegram Messenger Inc",
+            "answer_type": "AAAA",
+            "ipv6": "2001:67c:4e8:f004::9"
+          }
+        ],
+        "engine": "system",
+        "hostname": "web.telegram.org",
+        "query_type": "AAAA",
+        "resolver_address": "",
+        "t": 0.044939687
+      }
+    ],
+    "requests": [
+      {
+        "request": {
+          "body": "",
+          "body_is_truncated": false,
+          "headers_list": [
+            [
+              "User-Agent",
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+            ],
+            [
+              "Host",
+              "149.154.175.50"
+            ],
+            [
+              "Accept",
+              "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            ],
+            [
+              "Accept-Language",
+              "en-US;q=0.8,en;q=0.5"
+            ]
+          ],
+          "headers": {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US;q=0.8,en;q=0.5",
+            "Host": "149.154.175.50",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+          },
+          "method": "POST",
+          "tor": {
+            "is_tor": false
+          },
+          "url": "http://149.154.175.50/"
+        },
+        "response": {
+          "body": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/0.3.33</center>\r\n</body>\r\n</html>\r\n",
+          "body_is_truncated": false,
+          "code": 404,
+          "headers_list": [
+            [
+              "Date",
+              "Sat, 02 Aug 2025 19:48:42 GMT"
+            ],
+            [
+              "Content-Length",
+              "169"
+            ],
+            [
+              "Connection",
+              "keep-alive"
+            ],
+            [
+              "Content-Type",
+              "text/html"
+            ],
+            [
+              "Server",
+              "nginx/0.3.33"
+            ]
+          ],
+          "headers": {
+            "Connection": "keep-alive",
+            "Content-Length": "169",
+            "Content-Type": "text/html",
+            "Date": "Sat, 02 Aug 2025 19:48:42 GMT",
+            "Server": "nginx/0.3.33"
+          }
+        },
+        "t": 0.000267552
+      },
+      {
+        "request": {
+          "body": "",
+          "body_is_truncated": false,
+          "headers_list": [
+            [
+              "Accept",
+              "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            ],
+            [
+              "Accept-Language",
+              "en-US;q=0.8,en;q=0.5"
+            ],
+            [
+              "User-Agent",
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+            ],
+            [
+              "Host",
+              "149.154.175.100"
+            ]
+          ],
+          "headers": {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US;q=0.8,en;q=0.5",
+            "Host": "149.154.175.100",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+          },
+          "method": "POST",
+          "tor": {
+            "is_tor": false
+          },
+          "url": "http://149.154.175.100/"
+        },
+        "response": {
+          "body": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/0.3.33</center>\r\n</body>\r\n</html>\r\n",
+          "body_is_truncated": false,
+          "code": 404,
+          "headers_list": [
+            [
+              "Cache-Control",
+              "no-store"
+            ],
+            [
+              "Content-Length",
+              "169"
+            ],
+            [
+              "Connection",
+              "keep-alive"
+            ],
+            [
+              "Content-Type",
+              "text/html"
+            ],
+            [
+              "Server",
+              "nginx/0.3.33"
+            ],
+            [
+              "Date",
+              "Sat, 02 Aug 2025 19:48:42 GMT"
+            ],
+            [
+              "Pragma",
+              "no-cache"
+            ]
+          ],
+          "headers": {
+            "Cache-Control": "no-store",
+            "Connection": "keep-alive",
+            "Content-Length": "169",
+            "Content-Type": "text/html",
+            "Date": "Sat, 02 Aug 2025 19:48:42 GMT",
+            "Pragma": "no-cache",
+            "Server": "nginx/0.3.33"
+          }
+        },
+        "t": 0.000120364
+      },
+      {
+        "request": {
+          "body": "",
+          "body_is_truncated": false,
+          "headers_list": [
+            [
+              "Accept",
+              "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            ],
+            [
+              "Accept-Language",
+              "en-US;q=0.8,en;q=0.5"
+            ],
+            [
+              "User-Agent",
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+            ],
+            [
+              "Host",
+              "149.154.167.51"
+            ]
+          ],
+          "headers": {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US;q=0.8,en;q=0.5",
+            "Host": "149.154.167.51",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+          },
+          "method": "POST",
+          "tor": {
+            "is_tor": false
+          },
+          "url": "http://149.154.167.51/"
+        },
+        "response": {
+          "body": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/0.3.33</center>\r\n</body>\r\n</html>\r\n",
+          "body_is_truncated": false,
+          "code": 404,
+          "headers_list": [
+            [
+              "Connection",
+              "keep-alive"
+            ],
+            [
+              "Content-Type",
+              "text/html"
+            ],
+            [
+              "Server",
+              "nginx/0.3.33"
+            ],
+            [
+              "Date",
+              "Sat, 02 Aug 2025 19:48:42 GMT"
+            ],
+            [
+              "Pragma",
+              "no-cache"
+            ],
+            [
+              "Cache-Control",
+              "no-store"
+            ],
+            [
+              "Content-Length",
+              "169"
+            ]
+          ],
+          "headers": {
+            "Cache-Control": "no-store",
+            "Connection": "keep-alive",
+            "Content-Length": "169",
+            "Content-Type": "text/html",
+            "Date": "Sat, 02 Aug 2025 19:48:42 GMT",
+            "Pragma": "no-cache",
+            "Server": "nginx/0.3.33"
+          }
+        },
+        "t": 0.00021026
+      },
+      {
+        "request": {
+          "body": "",
+          "body_is_truncated": false,
+          "headers_list": [
+            [
+              "Accept",
+              "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            ],
+            [
+              "Accept-Language",
+              "en-US;q=0.8,en;q=0.5"
+            ],
+            [
+              "User-Agent",
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+            ],
+            [
+              "Host",
+              "149.154.175.50:443"
+            ]
+          ],
+          "headers": {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US;q=0.8,en;q=0.5",
+            "Host": "149.154.175.50:443",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+          },
+          "method": "POST",
+          "tor": {
+            "is_tor": false
+          },
+          "url": "http://149.154.175.50:443/"
+        },
+        "response": {
+          "body": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/0.3.33</center>\r\n</body>\r\n</html>\r\n",
+          "body_is_truncated": false,
+          "code": 404,
+          "headers_list": [
+            [
+              "Connection",
+              "keep-alive"
+            ],
+            [
+              "Content-Type",
+              "text/html"
+            ],
+            [
+              "Server",
+              "nginx/0.3.33"
+            ],
+            [
+              "Date",
+              "Sat, 02 Aug 2025 19:48:42 GMT"
+            ],
+            [
+              "Content-Length",
+              "169"
+            ]
+          ],
+          "headers": {
+            "Connection": "keep-alive",
+            "Content-Length": "169",
+            "Content-Type": "text/html",
+            "Date": "Sat, 02 Aug 2025 19:48:42 GMT",
+            "Server": "nginx/0.3.33"
+          }
+        },
+        "t": 0.000091094
+      },
+      {
+        "request": {
+          "body": "",
+          "body_is_truncated": false,
+          "headers_list": [
+            [
+              "Accept",
+              "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            ],
+            [
+              "Accept-Language",
+              "en-US;q=0.8,en;q=0.5"
+            ],
+            [
+              "User-Agent",
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+            ],
+            [
+              "Host",
+              "149.154.167.91"
+            ]
+          ],
+          "headers": {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US;q=0.8,en;q=0.5",
+            "Host": "149.154.167.91",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+          },
+          "method": "POST",
+          "tor": {
+            "is_tor": false
+          },
+          "url": "http://149.154.167.91/"
+        },
+        "response": {
+          "body": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/0.3.33</center>\r\n</body>\r\n</html>\r\n",
+          "body_is_truncated": false,
+          "code": 404,
+          "headers_list": [
+            [
+              "Connection",
+              "keep-alive"
+            ],
+            [
+              "Content-Type",
+              "text/html"
+            ],
+            [
+              "Server",
+              "nginx/0.3.33"
+            ],
+            [
+              "Date",
+              "Sat, 02 Aug 2025 19:48:42 GMT"
+            ],
+            [
+              "Content-Length",
+              "169"
+            ]
+          ],
+          "headers": {
+            "Connection": "keep-alive",
+            "Content-Length": "169",
+            "Content-Type": "text/html",
+            "Date": "Sat, 02 Aug 2025 19:48:42 GMT",
+            "Server": "nginx/0.3.33"
+          }
+        },
+        "t": 0.000193854
+      },
+      {
+        "request": {
+          "body": "",
+          "body_is_truncated": false,
+          "headers_list": [
+            [
+              "Accept",
+              "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            ],
+            [
+              "Accept-Language",
+              "en-US;q=0.8,en;q=0.5"
+            ],
+            [
+              "User-Agent",
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+            ],
+            [
+              "Host",
+              "149.154.171.5"
+            ]
+          ],
+          "headers": {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US;q=0.8,en;q=0.5",
+            "Host": "149.154.171.5",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+          },
+          "method": "POST",
+          "tor": {
+            "is_tor": false
+          },
+          "url": "http://149.154.171.5/"
+        },
+        "response": {
+          "body": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/0.3.33</center>\r\n</body>\r\n</html>\r\n",
+          "body_is_truncated": false,
+          "code": 404,
+          "headers_list": [
+            [
+              "Content-Type",
+              "text/html"
+            ],
+            [
+              "Server",
+              "nginx/0.3.33"
+            ],
+            [
+              "Date",
+              "Sat, 02 Aug 2025 19:48:42 GMT"
+            ],
+            [
+              "Content-Length",
+              "169"
+            ],
+            [
+              "Connection",
+              "keep-alive"
+            ]
+          ],
+          "headers": {
+            "Connection": "keep-alive",
+            "Content-Length": "169",
+            "Content-Type": "text/html",
+            "Date": "Sat, 02 Aug 2025 19:48:42 GMT",
+            "Server": "nginx/0.3.33"
+          }
+        },
+        "t": 0.000316771
+      },
+      {
+        "request": {
+          "body": "",
+          "body_is_truncated": false,
+          "headers_list": [
+            [
+              "Accept",
+              "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            ],
+            [
+              "Accept-Language",
+              "en-US;q=0.8,en;q=0.5"
+            ],
+            [
+              "User-Agent",
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+            ],
+            [
+              "Host",
+              "149.154.175.100:443"
+            ]
+          ],
+          "headers": {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US;q=0.8,en;q=0.5",
+            "Host": "149.154.175.100:443",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+          },
+          "method": "POST",
+          "tor": {
+            "is_tor": false
+          },
+          "url": "http://149.154.175.100:443/"
+        },
+        "response": {
+          "body": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/0.3.33</center>\r\n</body>\r\n</html>\r\n",
+          "body_is_truncated": false,
+          "code": 404,
+          "headers_list": [
+            [
+              "Connection",
+              "keep-alive"
+            ],
+            [
+              "Content-Type",
+              "text/html"
+            ],
+            [
+              "Server",
+              "nginx/0.3.33"
+            ],
+            [
+              "Date",
+              "Sat, 02 Aug 2025 19:48:43 GMT"
+            ],
+            [
+              "Content-Length",
+              "169"
+            ]
+          ],
+          "headers": {
+            "Connection": "keep-alive",
+            "Content-Length": "169",
+            "Content-Type": "text/html",
+            "Date": "Sat, 02 Aug 2025 19:48:43 GMT",
+            "Server": "nginx/0.3.33"
+          }
+        },
+        "t": 0.000087343
+      },
+      {
+        "request": {
+          "body": "",
+          "body_is_truncated": false,
+          "headers_list": [
+            [
+              "Accept",
+              "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            ],
+            [
+              "Accept-Language",
+              "en-US;q=0.8,en;q=0.5"
+            ],
+            [
+              "User-Agent",
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+            ],
+            [
+              "Host",
+              "149.154.167.51:443"
+            ]
+          ],
+          "headers": {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US;q=0.8,en;q=0.5",
+            "Host": "149.154.167.51:443",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+          },
+          "method": "POST",
+          "tor": {
+            "is_tor": false
+          },
+          "url": "http://149.154.167.51:443/"
+        },
+        "response": {
+          "body": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/0.3.33</center>\r\n</body>\r\n</html>\r\n",
+          "body_is_truncated": false,
+          "code": 404,
+          "headers_list": [
+            [
+              "Connection",
+              "keep-alive"
+            ],
+            [
+              "Content-Type",
+              "text/html"
+            ],
+            [
+              "Server",
+              "nginx/0.3.33"
+            ],
+            [
+              "Date",
+              "Sat, 02 Aug 2025 19:48:43 GMT"
+            ],
+            [
+              "Content-Length",
+              "169"
+            ]
+          ],
+          "headers": {
+            "Connection": "keep-alive",
+            "Content-Length": "169",
+            "Content-Type": "text/html",
+            "Date": "Sat, 02 Aug 2025 19:48:43 GMT",
+            "Server": "nginx/0.3.33"
+          }
+        },
+        "t": 0.000365781
+      },
+      {
+        "request": {
+          "body": "",
+          "body_is_truncated": false,
+          "headers_list": [
+            [
+              "User-Agent",
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+            ],
+            [
+              "Host",
+              "149.154.167.91:443"
+            ],
+            [
+              "Accept",
+              "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            ],
+            [
+              "Accept-Language",
+              "en-US;q=0.8,en;q=0.5"
+            ]
+          ],
+          "headers": {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US;q=0.8,en;q=0.5",
+            "Host": "149.154.167.91:443",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+          },
+          "method": "POST",
+          "tor": {
+            "is_tor": false
+          },
+          "url": "http://149.154.167.91:443/"
+        },
+        "response": {
+          "body": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/0.3.33</center>\r\n</body>\r\n</html>\r\n",
+          "body_is_truncated": false,
+          "code": 404,
+          "headers_list": [
+            [
+              "Connection",
+              "keep-alive"
+            ],
+            [
+              "Content-Type",
+              "text/html"
+            ],
+            [
+              "Server",
+              "nginx/0.3.33"
+            ],
+            [
+              "Date",
+              "Sat, 02 Aug 2025 19:48:43 GMT"
+            ],
+            [
+              "Content-Length",
+              "169"
+            ]
+          ],
+          "headers": {
+            "Connection": "keep-alive",
+            "Content-Length": "169",
+            "Content-Type": "text/html",
+            "Date": "Sat, 02 Aug 2025 19:48:43 GMT",
+            "Server": "nginx/0.3.33"
+          }
+        },
+        "t": 0.000107239
+      },
+      {
+        "request": {
+          "body": "",
+          "body_is_truncated": false,
+          "headers_list": [
+            [
+              "Accept",
+              "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            ],
+            [
+              "Accept-Language",
+              "en-US;q=0.8,en;q=0.5"
+            ],
+            [
+              "User-Agent",
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+            ],
+            [
+              "Host",
+              "149.154.171.5:443"
+            ]
+          ],
+          "headers": {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US;q=0.8,en;q=0.5",
+            "Host": "149.154.171.5:443",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+          },
+          "method": "POST",
+          "tor": {
+            "is_tor": false
+          },
+          "url": "http://149.154.171.5:443/"
+        },
+        "response": {
+          "body": "<html>\r\n<head><title>404 Not Found</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/0.3.33</center>\r\n</body>\r\n</html>\r\n",
+          "body_is_truncated": false,
+          "code": 404,
+          "headers_list": [
+            [
+              "Connection",
+              "keep-alive"
+            ],
+            [
+              "Content-Type",
+              "text/html"
+            ],
+            [
+              "Server",
+              "nginx/0.3.33"
+            ],
+            [
+              "Date",
+              "Sat, 02 Aug 2025 19:48:43 GMT"
+            ],
+            [
+              "Content-Length",
+              "169"
+            ]
+          ],
+          "headers": {
+            "Connection": "keep-alive",
+            "Content-Length": "169",
+            "Content-Type": "text/html",
+            "Date": "Sat, 02 Aug 2025 19:48:43 GMT",
+            "Server": "nginx/0.3.33"
+          }
+        },
+        "t": 0.000198645
+      },
+      {
+        "failure": "unknown_failure: context deadline exceeded",
+        "request": {
+          "body": "",
+          "body_is_truncated": false,
+          "headers_list": [
+            [
+              "User-Agent",
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+            ],
+            [
+              "Host",
+              "web.telegram.org"
+            ],
+            [
+              "Accept",
+              "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            ],
+            [
+              "Accept-Language",
+              "en-US;q=0.8,en;q=0.5"
+            ]
+          ],
+          "headers": {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US;q=0.8,en;q=0.5",
+            "Host": "web.telegram.org",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+          },
+          "method": "GET",
+          "tor": {
+            "is_tor": false
+          },
+          "url": "http://web.telegram.org/"
+        },
+        "response": {
+          "body": "",
+          "body_is_truncated": false,
+          "code": 0
+        },
+        "t": 0.000114271
+      },
+      {
+        "failure": "unknown_failure: context deadline exceeded",
+        "request": {
+          "body": "",
+          "body_is_truncated": false,
+          "headers_list": [
+            [
+              "Accept",
+              "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            ],
+            [
+              "Accept-Language",
+              "en-US;q=0.8,en;q=0.5"
+            ],
+            [
+              "User-Agent",
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+            ],
+            [
+              "Host",
+              "web.telegram.org"
+            ]
+          ],
+          "headers": {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US;q=0.8,en;q=0.5",
+            "Host": "web.telegram.org",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+          },
+          "method": "GET",
+          "tor": {
+            "is_tor": false
+          },
+          "url": "https://web.telegram.org/"
+        },
+        "response": {
+          "body": "",
+          "body_is_truncated": false,
+          "code": 0
+        },
+        "t": 0.000106406
+      }
+    ],
+    "tcp_connect": [
+      {
+        "ip": "149.154.175.50",
+        "port": 80,
+        "status": {
+          "success": true
+        },
+        "t": 0.125502604
+      },
+      {
+        "ip": "149.154.175.100",
+        "port": 80,
+        "status": {
+          "success": true
+        },
+        "t": 0.125349531
+      },
+      {
+        "ip": "149.154.167.51",
+        "port": 80,
+        "status": {
+          "success": true
+        },
+        "t": 0.187325364
+      },
+      {
+        "ip": "149.154.175.50",
+        "port": 443,
+        "status": {
+          "success": true
+        },
+        "t": 0.121393854
+      },
+      {
+        "ip": "149.154.167.91",
+        "port": 80,
+        "status": {
+          "success": true
+        },
+        "t": 0.190867656
+      },
+      {
+        "ip": "149.154.171.5",
+        "port": 80,
+        "status": {
+          "success": true
+        },
+        "t": 0.281790313
+      },
+      {
+        "ip": "149.154.175.100",
+        "port": 443,
+        "status": {
+          "success": true
+        },
+        "t": 0.130357239
+      },
+      {
+        "ip": "149.154.167.51",
+        "port": 443,
+        "status": {
+          "success": true
+        },
+        "t": 0.190389479
+      },
+      {
+        "ip": "149.154.167.91",
+        "port": 443,
+        "status": {
+          "success": true
+        },
+        "t": 0.185344635
+      },
+      {
+        "ip": "149.154.171.5",
+        "port": 443,
+        "status": {
+          "success": true
+        },
+        "t": 0.273451822
+      },
+      {
+        "ip": "149.154.167.99",
+        "port": 443,
+        "status": {
+          "failure": "generic_timeout_error",
+          "success": false
+        },
+        "t": 28.804451083
+      },
+      {
+        "ip": "2001:67c:4e8:f004::9",
+        "port": 443,
+        "status": {
+          "failure": "generic_timeout_error",
+          "success": false
+        },
+        "t": 28.804560406
+      }
+    ],
+    "telegram_http_blocking": false,
+    "telegram_tcp_blocking": false,
+    "telegram_web_failure": "generic_timeout_error",
+    "telegram_web_status": "blocked"
+  },
+  "test_name": "telegram",
+  "test_runtime": 30.003854624,
+  "test_start_time": "2025-08-02 19:48:40",
+  "test_version": "0.1.0"
+}
